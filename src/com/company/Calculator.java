@@ -1,4 +1,4 @@
-
+/* code to display demo on calculator */
     package com.company;
     import java.util.Scanner;
     public class Calculator
