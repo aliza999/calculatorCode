@@ -15,7 +15,7 @@
                 System.out.println("\n 0 for exit");
                 System.out.print("\n 1:add");
                 System.out.print("\n 2:multiplication");
-                System.out.print("\n 3:divide");
+                System.out.print("\n 3:division");
                
                 System.out.print("\n Enter your choice");
                 choice = s.nextInt();
