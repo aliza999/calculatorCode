@@ -16,7 +16,7 @@
                 System.out.print("\n 1:add");
                 System.out.print("\n 2:multiplication");
                 System.out.print("\n 3:divide");
-                System.out.print("\n 4:subtract");
+               
                 System.out.print("\n Enter your choice");
                 choice = s.nextInt();
                 if (choice != 0) {
@@ -47,14 +47,7 @@
                             System.out.println("division not possible");
                             break;
                         }
-                        case 4: {
-                            opr1 = s.nextInt();
-                            opr2 = s.nextInt();
-
-
-                            result = opr1 - opr2;
-                            break;
-                        }
+                        
                         default:
                             System.out.println("no match found");
                             break;
